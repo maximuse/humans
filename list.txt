@@ -1,0 +1,8 @@
+Nagy János;1987;programozó (back end)
+Szabó Gábor;1981;programozó (front end)
+Kovács István;1985;designer
+Varga András;1991;marketinges
+Kiss Tamás;1979;project manager
+Horváth Andrea;1992;ügyfélszolgálatos
+Lakatos Ádám;1989;rendszergazda
+Balogh József;1988;mobilalkalmazás fejlesztő
