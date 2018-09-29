@@ -27,7 +27,7 @@ public class Main {
 			System.out.println(e);
 		}
 		
-		//System.out.print("A legfiatalabb munkatárs: ");
+		System.out.print("A legfiatalabb munkatárs: ");
 		theYoungestWorker(names, years, jobs);
 		System.out.println();
 		getWorkerName("designer", names, jobs);
