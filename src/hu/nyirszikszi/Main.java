@@ -47,7 +47,9 @@ public class Main {
 			}
 		}
 		
-		System.out.println(names.get(index) + " (" + years.get(index) + ") - " + jobs.get(index));
+		if (index != null) {
+			System.out.println(names.get(index) + " (" + years.get(index) + ") - " + jobs.get(index));
+		}
 	}
 	
 	private static void getWorkerName (String job, ArrayList<String> names, ArrayList<String> jobs) {
