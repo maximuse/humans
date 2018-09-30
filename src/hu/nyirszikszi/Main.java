@@ -22,6 +22,8 @@ public class Main {
 				years.add(Integer.parseInt(array[1]));
 				jobs.add(array[2]);
 			}
+			
+			s.close();
 		}
 		catch (IOException e) {
 			System.out.println(e);
